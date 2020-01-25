@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Encontrar um parceiro de aprendizagem da Microsoft
       summary: A nossa rede de parceiros mundial fornece uma formação personalizada e flexível  baseada em soluções em tecnologias Microsoft.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Apoio para certificações e exames
       summary: Obtenha ajuda através de fóruns de apoio. O moderador do fórum irá responder dentro de um dia útil, de segunda a sexta.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Certificações da Microsoft
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Benefícios de Certificações da Microsoft
     summary: Após obterem uma certificação, 23% dos tecnólogos certificados pela Microsoft alegam ter recebido um aumento de salário de até 20%. Além disso, os funcionários certificados são frequentemente encarregados de supervisionar os seus colegas, colocando-os no caminho rápido para uma promoção. relatório técnico 2017 Pearson VUE Value of Certification.
   items:
