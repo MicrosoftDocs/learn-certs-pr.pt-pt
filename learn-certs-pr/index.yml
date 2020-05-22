@@ -29,12 +29,12 @@ roles:
     summary: Os Security Engineers implementam controlos de segurança e proteção contra ameaças, gerem a identidade e o acesso e protegem os dados, as aplicações e as redes.
     url: /learn/certifications/roles/security-engineer
   - name: functional-consultant
-    summary: Os Functional Consultants utilizam a Dynamics 365 da Microsoft para prever e elaborar planos que visem atender às necessidades dos clientes.
+    summary: Os Functional Consultants utilizam a Microsoft Dynamics 365 para prever e elaborar planos que visem atender às necessidades dos clientes.
     url: /learn/certifications/roles/functional-consultant
 
 
 certificationsSection:
-  title: Obtenha a Certificação Microsoft
+  title: Obtenha a Microsoft Certified
   summary: "A Microsoft tem caminhos de certificação para muitos cargos de função técnica. Cada uma destas certificações consiste numa série de exames que têm de ser aprovados para ganhar a certificação."
   tiers:
     - title: Certificações de Fundamentals
@@ -81,7 +81,7 @@ trainingSection:
       alt: Homem a fazer uma apresentação a quatro pessoas sentadas em volta de uma mesa
       src: /learn/certifications/images/image-working-group.jpg
     title: Preparar com formação liderada por instrutores
-    summary: Os Parceiros de Aprendizagem da Microsoft oferecem uma variedade de soluções adaptadas às suas necessidades de aprendizagem, capacitando-o para alcançar os seus objetivos de formação. Os Microsoft Certified Trainers concluíram uma formação rigorosa e cumpriram os requisitos exigentes da certificação técnica.
+    summary: Os Microsoft Learning Partners oferecem uma variedade de soluções adaptadas às suas necessidades de aprendizagem, capacitando-o para alcançar os seus objetivos de formação. Os Microsoft Certified Trainers concluíram uma formação rigorosa e cumpriram os requisitos exigentes da certificação técnica.
     browseLinks:
     - text: Consultar todas as formações lideradas por instrutores
       url: /learn/certifications/courses/browse/
@@ -89,8 +89,8 @@ trainingSection:
 resourcesSection:
   title: Recursos de aprendizagem
   items:
-    - title: Encontrar um parceiro de aprendizagem da Microsoft
-      summary: A nossa rede de parceiros mundial fornece uma formação personalizada e flexível  baseada em soluções em tecnologias Microsoft.
+    - title: Encontrar um Microsoft Learning Partner
+      summary: A nossa rede de parceiros mundial fornece uma formação personalizada e flexível baseada em soluções em tecnologias Microsoft.
       url: https://www.microsoft.com/learning/partners.aspx
     - title: Apoio para certificações e exames
       summary: Obtenha ajuda através de fóruns de apoio. O moderador do fórum irá responder dentro de um dia útil, de segunda a sexta.
@@ -104,10 +104,10 @@ statisticsSection:
   summary: As certificações dão-lha uma vantagem profissional na forma de comprovativos de capacidades baseadas em funções reconhecidos pela indústria.
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Certificações da Microsoft
+    iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Benefícios de Certificações da Microsoft
-    summary: Após obterem uma certificação, 23% dos tecnólogos certificados pela Microsoft alegam ter recebido um aumento de salário de até 20%. Além disso, os funcionários certificados são frequentemente encarregados de supervisionar os seus colegas, colocando-os no caminho rápido para uma promoção. relatório técnico 2017 Pearson VUE Value of Certification.
+    title: Benefícios de Microsoft Certifications
+    summary: Após obterem uma certificação, 23% dos tecnólogos certificados pela Microsoft alegam ter recebido um aumento de salário de até 20%. Além disso, os funcionários certificados são frequentemente encarregados de supervisionar os seus colegas, colocando-os no caminho rápido para uma promoção. 2017 Pearson VUE Value of Certification white paper.
   items:
     - title: 38%
       summary: dos cargos de TI serão relacionados com a nuvem em 2021.
